@@ -27,8 +27,8 @@ A modern facial recognition-based attendance management system with advanced ana
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-attendance-system.git
-cd smart-attendance-system
+git clone https://github.com/imomus/Auto_Attendence_System.git
+cd Auto_Attendence_System
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -58,7 +58,7 @@ This will:
 ### Initial Setup
 
 1. Launch the application:
-   - From applications menu: "Smart Attendance System"
+   - From applications menu: "Auto Attendance System"
    - Or from terminal: `python face1.py`
 
 2. Configure Email Settings (for reports):
