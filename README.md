@@ -1,4 +1,4 @@
-# Smart Attendance System with Analytics
+# Auto Attendance System with Analytics
 
 A modern facial recognition-based attendance management system with advanced analytics, reporting, and date-wise tracking features.
 
